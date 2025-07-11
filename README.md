@@ -62,11 +62,3 @@ src/
 ├── utils/         # Funkcje pomocnicze
 └── constants/     # Stałe aplikacji
 ```
-
-## 🔗 API
-
-Backend: `http://localhost:8000/api/v1`
-
-## 📄 Licencja
-
-MIT
